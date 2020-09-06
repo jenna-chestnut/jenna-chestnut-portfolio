@@ -49,10 +49,11 @@ hr, h3, p {
   clear:both;
 } 
 
-/* this edits our horizontal ruler to it's pretty color and specific width */
+/* this edits our horizontal ruler to it's pretty color and specific size */
 hr {
   border: 1px solid rgb(31, 87, 56);
   width: 500px;
+  height: 15px;
 }
 
 /* these rules edit our hyperlink text - we only have one of this type on this page right now */
