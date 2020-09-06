@@ -52,7 +52,8 @@ hr, h3, p {
 /* this edits our horizontal ruler to it's pretty color and specific size */
 hr {
   border: none;
-  background-image: url('https://gdurl.com/k4yv');
+  background-image: url('https://gdurl.com/kn19');
+  background-color: rgba(47, 86, 50, 1);
   width: 550px;
   height: 5px;
 }
