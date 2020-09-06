@@ -23,7 +23,7 @@ header, footer {
 main {
   padding-top: 40px;
   margin: 0 auto; /* this helps the site to adjust for mobile device orientation */
-  min-width: 650px; /* this keeps any margins from over-adjusting */
+  min-width: 700px; /* this keeps any margins from over-adjusting */
 }
 
 h1 {
