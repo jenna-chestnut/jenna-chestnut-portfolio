@@ -53,8 +53,8 @@ hr, h3, p {
 hr {
   background-image: url('https://gdurl.com/k4yv');
   border: 1px solid rgb(31, 87, 56);
-  width: 500px;
-  height: 15px;
+  width: 550px;
+  height: 5px;
 }
 
 /* these rules edit our hyperlink text - we only have one of this type on this page right now */
