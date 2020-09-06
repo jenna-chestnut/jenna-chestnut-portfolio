@@ -51,10 +51,10 @@ hr, h3, p {
 
 /* this edits our horizontal ruler to it's pretty color and specific size */
 hr {
+  background-image: url('https://gdurl.com/k4yv');
   border: 1px solid rgb(31, 87, 56);
   width: 500px;
   height: 15px;
-  background-image: url('https://gdurl.com/k4yv');
 }
 
 /* these rules edit our hyperlink text - we only have one of this type on this page right now */
