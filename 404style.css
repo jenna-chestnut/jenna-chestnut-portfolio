@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+
+body {
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  text-align: center;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+.wrappedup {
+  background-image: url(https://gdurl.com/FuNv);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: bottom;
+  background-color: #7aae7f ;
+  width: 100vw;
+  height: 100vh;
+}
+
+h1 {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 100px;
+  padding-top: 15vh;
+  margin: 0 auto;
+}
+
+h2 {
+  padding: 0;
+}
+
+h3 {
+  padding: 0;
+}
+
+.words {
+  background-color: #24211977;
+  border-radius: 15px; 
+  margin: 0 auto;
+  width: fit-content;
+  padding: 5px 10px;
+}
+
+a:link {
+ color: #ffffff;
+}
+
+a:visited {
+ color: #ceebcf;
+}
+
+a:hover {
+ color: #95c9e0
+}
+
+a:active {
+ color: #ffa600
+}
