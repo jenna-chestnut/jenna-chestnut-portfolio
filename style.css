@@ -24,7 +24,7 @@ header, footer {
 
 main {
   padding-top: 40px;
-  background-color: #a6ceb977; 
+  background-color: #a6ceb9bf; 
   margin: 0 auto; /* this helps the site to adjust for mobile device orientation */
   min-width: 700px; /* this keeps any margins from over-adjusting */
 }
