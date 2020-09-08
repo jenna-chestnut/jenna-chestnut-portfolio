@@ -4,8 +4,8 @@
 /* edits to entire areas - fonts, margins, backgrounds, alignment and padding */
 
 body {
-  background-color: rgba(166, 206, 185, 0.377);
   background-image: url('https://gdurl.com/kn19') opacity(25%);
+  background-color: rgb(166, 206, 185);
   font-family: 'Nanum Gothic', sans-serif;
   margin:0%;
 }
