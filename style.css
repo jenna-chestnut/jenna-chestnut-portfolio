@@ -51,6 +51,14 @@ hr, h3, p {
   clear:both;
 } 
 
+/* a center column for my main content */
+.column {
+  width:700px;
+  margin: 0 auto;
+  padding-top:20px;
+  background-color: #cae6d8f2;
+}
+
 /* this edits our horizontal ruler to it's pretty color and specific size */
 hr {
   border: none;
