@@ -98,7 +98,7 @@ color: yellow;
 
 /* rounded corners on my photo */
 .round {
-  border-radius:25px;
+  border-radius:50%;
 }
 
 /* edit a single line of text */
