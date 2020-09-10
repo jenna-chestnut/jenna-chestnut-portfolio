@@ -98,13 +98,13 @@ color: yellow;
 
 /* rounded corners on my photo */
 .round {
-  border-radius:50%;
+  border-radius:25px;
 }
 
 /* edit a single line of text */
 .special {
-  color: aliceblue;
-  font-size: 30px;
+  color: #ffffff;
+  font-size: 35px;
   letter-spacing: 5px;
   font-style: italic;
   margin: 0px;
