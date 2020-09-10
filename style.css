@@ -57,6 +57,7 @@ hr, h3, p {
   margin: 0 auto;
   padding-top:20px;
   background-color: #cae6d8f2;
+  border-radius: 25px;
 }
 
 /* this edits our horizontal ruler to it's pretty color and specific size */
